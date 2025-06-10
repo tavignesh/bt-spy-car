@@ -1,3 +1,3 @@
 This project involves the design and implementation of a sophisticated Bluetooth-enabled rover platform equipped with a high-resolution camera and audio transmission modules for real-time remote surveillance and reconnaissance. The system architecture integrates embedded microcontroller programming with wireless communication protocols to enable seamless bidirectional control and data streaming. The rover's mobility and sensory inputs are orchestrated through custom firmware, allowing precise maneuvering and live monitoring over Bluetooth connectivity. This innovation demonstrates practical applications in remote security, search-and-rescue operations, and exploratory missions, showcasing proficiency in embedded systems, wireless communication, and multimedia data handling.
-https://www.youtube.com/watch?v=wwehofZFIzE
+<br>https://www.youtube.com/watch?v=wwehofZFIzE
 <br><br> ![image](https://github.com/user-attachments/assets/326763ae-abce-4060-9a88-3255f4c9df34)
